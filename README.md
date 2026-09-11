@@ -1,2 +1,3 @@
-# Page
+# JAVASCRIPT
 
+This is Javascript Notes
