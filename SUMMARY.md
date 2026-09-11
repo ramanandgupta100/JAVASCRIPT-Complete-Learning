@@ -7,4 +7,5 @@
 * [Cookies](cookies.md)
 * [SQLITE](sqlite.md)
 * [IndexedDB](indexeddb.md)
-* [Classes, OOPS,](classes-oops.md)
+* [OOPS](classes-oops.md)
+* [Page 1](page-1.md)
